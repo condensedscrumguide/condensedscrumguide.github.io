@@ -11,7 +11,7 @@ h2 {
 
 ul {
   font-family:"Open Sans";
-  font-size:14px;
+  font-size:12px;
   margin-left: 60px;
   padding-left: 60px;  
 }
@@ -61,6 +61,14 @@ ul, #myUL, #list {
 
 .active {
   display: block;
+}
+
+.zoom {
+  transition: transform .2s; /* Animation */
+}
+
+.zoom:hover {
+  transform: scale(2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 </style>
 <script>
@@ -130,15 +138,11 @@ function paint() {
 </script>
 </head>
 <body>
-<h2>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-&emsp;&emsp;
-A Condensed Scrum Guide
-</h2>
+<h2>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;A Condensed Scrum Guide</h2>
 <ul id="list"></ul>
 <script>
 let txt = `
-<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA" style="background-image: url(' https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2021-01/screen_shot_2021-01-10_at_9.14.17_am.png'); width: 900px; height: 400px; background-position: center; background-size: cover; border:0;">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img class="zoom" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA" style="background-image: url(' https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2021-01/screen_shot_2021-01-10_at_9.14.17_am.png'); width: 350px; height: 170px; background-position: center; background-size: cover; border:0;">
 "#Why condense the Scrum Guide?#" - a #brief explanation# of this page
 	
 	#This document# takes the #2020 Scrum Guide# and condenses it down to #one slide#, from which you can #drill down# to the #original text#.
@@ -159,7 +163,7 @@ let txt = `
 	<small>This publication is offered for license under the Attribution Share-Alike license of Creative Commons, accessible at https://creativecommons.org/licenses/by-sa/4.0/legalcode and also described in summary form at https://creativecommons.org/licenses/by-sa/4.0/.
 	By utilizing #this format of# the Scrum Guide, you acknowledge and agree that you have read and agree to be bound by the terms of the Attribution Share-Alike license of Creative Commons.</small>
 	
-"#Click here to see how this page works#" - a short #how-to# manual
+"#How does this page work?#" - a short #how-to# manual
 	
 	Plain text contains #summarised information# from the 2023 Scrum Guide, which you can click to drill down on
 		Yes, just like that
@@ -179,7 +183,7 @@ let txt = `
 	However, the #Scrum Guide# only contains the #core Scrum framework#, and no more
 		"Their description is beyond the purpose of the Scrum Guide because they are context sensitive and differ widely between Scrum uses. Such tactics for using within the Scrum framework vary widely and are described elsewhere.
 
-"#Scrum Definition#" - a #simple# and #incomplete# framework for working on #complex problems#
+"#Scrum Definition#" - scrum is a #simple# and #incomplete# framework for working on #complex problems#
 	
 	"• Scrum is a #lightweight framework# that helps #people#, #teams# and #organizations# generate #value# through #adaptive solutions# for #complex problems#
 	• In a nutshell, Scrum requires a #Scrum Master# to foster an #environment# where
@@ -223,7 +227,7 @@ let txt = `
 		#Empowerment# and #self-management# help the Team to #rapidly adapt# as they #learn# by #inspection#
 			"Adaptation becomes more difficult when the people involved are not empowered or self-managing. A Scrum Team is expected to adapt the moment it learns anything new through inspection.
 	
-"#Scrum Values#" - the pursuit of #commitment#, #focus#, #openness#, #respect#, and #courage#
+"#Scrum Values#" - scrum teams aspire to #commitment#, #focus#, #openness#, #respect#, and #courage#
 	
 	"#Successful use of Scrum# depends on #people# becoming #proficient# in living five #Scrum Values#
 	• #Commitment# - Team #commits# to achieving its #goals# and to #supporting# each other
@@ -403,7 +407,7 @@ let txt = `
 		"If the Definition of Done for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum. If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product.
 		"The Developers are required to conform to the Definition of Done. If there are multiple Scrum Teams working together on a product, they must mutually define and comply with the same Definition of Done.
 
-"#End Note#" - from the Scrum Guide authors, #Ken Schwaber# and #Jeff Sutherland#
+"#End Note#" - from the original authors, #Ken Schwaber# and #Jeff Sutherland#
 	
 	"Scrum is free and offered in this Guide. The Scrum framework, as outlined herein, is immutable. While implementing only parts of Scrum is possible, the result is not Scrum. Scrum exists only in its entirety and functions well as a container for other techniques, methodologies, and practices.
 	"#Acknowledgements#
@@ -420,6 +424,7 @@ let txt = `
 `
 //
 paint();
+
 </script>
 </body>
 </html>
