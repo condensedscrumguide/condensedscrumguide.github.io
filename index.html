@@ -7,6 +7,7 @@
 <style>
 h2 {
   font-family:"Open Sans";
+  text-align: center;
 }
 
 ul {
@@ -69,6 +70,12 @@ ul, #myUL, #list {
 
 .zoom:hover {
   transform: scale(2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+.centre {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 </style>
 <script>
@@ -138,11 +145,11 @@ function paint() {
 </script>
 </head>
 <body>
-<h2>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;A Condensed Scrum Guide</h2>
+<h2>A Condensed Scrum Guide</h2>
 <ul id="list"></ul>
 <script>
 let txt = `
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img class="zoom" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA" style="background-image: url(' https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2021-01/screen_shot_2021-01-10_at_9.14.17_am.png'); width: 350px; height: 170px; background-position: center; background-size: cover; border:0;">
+<img class="zoom centre" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA" style="background-image: url(' https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2021-01/screen_shot_2021-01-10_at_9.14.17_am.png'); width: 350px; height: 170px; background-position: center; background-size: cover; border:0;">
 "#Why condense the Scrum Guide?#" - a #brief explanation# of this page
 	
 	#This document# takes the #2020 Scrum Guide# and condenses it down to #one slide#, from which you can #drill down# to the #original text#.
