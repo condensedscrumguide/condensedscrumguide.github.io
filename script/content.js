@@ -30,7 +30,7 @@ let txt = `
 	"• Grey boxes are #the full original text# from the 2023 Scrum Guide, which is the thing that you drill down #to#
 	
 
-"#Purpose of the Scrum Guide#" - the scrum guide's~#sole purpose# is to #define# the #core scrum framework#
+"#Purpose of the Scrum Guide#" - simply, to #define#~the #core scrum framework#
 	
 	#Scrum# began in the 1990s, and the #Scrum Guide# has been #continuously evolving# since #2010#
 		"We developed Scrum in the early 1990s. We wrote the first version of the Scrum Guide in 2010 to help people worldwide understand Scrum. We have evolved the Guide since then through small, functional updates. Together, we stand behind it.
@@ -43,7 +43,7 @@ let txt = `
 	However, the #Scrum Guide# only contains the #core Scrum framework#, and no more
 		"Their description is beyond the purpose of the Scrum Guide because they are context sensitive and differ widely between Scrum uses. Such tactics for using within the Scrum framework vary widely and are described elsewhere.
 
-"#Scrum Definition#" - a #simple# and #incomplete# framework~for working on #complex problems#
+"#Scrum Definition#" - a #simple# and #iterative# approach~to #creating value# by solving #complex problems#
 	
 	"• Scrum is a #lightweight framework# that helps #people#, #teams# and #organizations# generate #value# through #adaptive solutions# for #complex problems#
 	• In a nutshell, Scrum requires a #Scrum Master# to foster an #environment# where
@@ -56,7 +56,7 @@ let txt = `
 	Scrum can contain #other project methodologies# and/or #existing practices#, to #make them visible#, #improve them# and/or #render them unnecessary#
 		"Various processes, techniques and methods can be employed within the framework. Scrum wraps around existing practices or renders them unnecessary. Scrum makes visible the relative efficacy of current management, environment, and work techniques, so that improvements can be made.
 	
-"#Scrum Theory#" - #efficient# and #focused# work,~through #transparency#, #observation# and #adaptation#
+"#Scrum Theory#" - encouraging #efficient# and #focused# teamwork,~through #transparency#, #observation# and #adaptation#
 	
 	"Scrum is founded on #Empiricism# and #Lean Thinking#
 		"• #Empiricism# asserts that #knowledge# comes from #experience# and making #decisions# based on what is #observed# 
