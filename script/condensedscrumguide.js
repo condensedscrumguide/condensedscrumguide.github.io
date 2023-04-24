@@ -11,7 +11,7 @@ function paint() {
 			str = str.replaceAll('#', "<strong>");
 			str = str.replace("• ", String.fromCharCode(9673) + "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;");
 			str = str.replaceAll(". ", ".<br>");
-			str = str.replaceAll("~", "<br class='mob'>");
+			str = str.replaceAll("~", " <br class='mob'>");
 			str = str.replaceAll("  ", "&nbsp;&nbsp;");
 			return str;
 		}
