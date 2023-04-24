@@ -5,16 +5,15 @@ let txt = `
 	Here is the #2020 Scrum Guide# as a single slide, ~with #full drill down# to the #original text#.
 	You can view it on a #laptop screen# or #mobile phone#.
 	
-	#Scrum# is a #popular approach#, and has been #widely used#. ~As a result, Scrum gets done in many #different ways#.
-	The fact remains, that #Scrum# has a #precise definition#.
+	#Scrum# is a #popular approach#, and has been #widely used#.
+	Scrum is an incomplete framework - to use it is to customise it.
+	But the core of #Scrum# has a #precise definition#, with~#principles#, #values#, #accountabilities#, #events#, and #artifacts#.
 	
 	This page seeks to make that definition (as outlined in the Scrum Guide) #instantly accessible# to #everyone#.
-	Here are the #theoretical principles#, #values#, #accountabilities#, #events#, and #artifacts#, taken directly from the Scrum Guide.
-	The #single purpose# of the page is to help #customers# and #teams# to #understand# those things in #greater depth#.
 	
-	Clearly a #customer# is anyone who makes a #purchasing decision#, and such decisions can be aided by #greater transparency#.
-	#Self-managing teams# need to #discuss# the work, and constructive discussion is easier when you #agree# on the #meanings of words#.
-	#Perhaps# this document will #help# scrum teams and their customers to #talk productively# about the #right ways to work#.
+	Clearly a #customer# is anyone who makes a #purchasing decision#,~and such decisions can be aided by #greater transparency#.
+	#Self-managing teams# need to #discuss# the work, and constructive discussion~is easier when you #agree# on the #meanings of words#.
+	#Perhaps# this document will #help# scrum teams and their customers~to #talk productively# about the #right ways to work#.
 	
 	In any event, we hope that #you# will enjoy reading it.
 	
