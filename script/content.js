@@ -2,7 +2,7 @@ let txt = `
 <img class="zoom centre" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA" style="background-image: url(' img/scrumframework.png'); width: 350px; height: 170px; background-position: center; background-size: cover; border:0;">
 "#Why condense the Scrum Guide?#" - a #brief explanation#
 	
-	This is the #2020 Scrum Guide# for #laptop# or #mobile,~with #full drill down# to the #original text#.
+	This is the #2020 Scrum Guide# for #laptop# or #mobile#,~with #full drill down# to the #original text#.
 	
 	#Scrum# is a #popular approach#, which is #widely used#.~It's an #incomplete framework#; to #use# it is to #customise# it.
 	But the core of #Scrum# has a #precise definition#, with~#principles#, #values#, #accountabilities#, #events#, and #artifacts#.
