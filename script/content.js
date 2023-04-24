@@ -1,5 +1,7 @@
 let txt = `
-<img class="zoom centre" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA" style="background-image: url(' img/scrumframework.png'); width: 350px; height: 170px; background-position: center; background-size: cover; border:0;">
+<img class="zoom centre"
+     src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA"
+     style="background-image: url(' img/scrumframework.png'); width: 320px; height: 150px; background-position: center; background-size: cover; border:0;">
 "#Why condense the Scrum Guide?#" - a #brief explanation#
 	
 	The #2020 Scrum Guide# on one page for #laptop# or #mobile#,~with #full drill down# back to the #original text#.
