@@ -77,7 +77,7 @@ ul, #myUL, #list {
   /* comes into effect for screens over 500 pixels */
   .mob { display: none; }
   .zoom:hover {
-    transform: scale(2);
+    transform: matrix(2, 0, 0, 2, 0, 85);
   }
 }
 
