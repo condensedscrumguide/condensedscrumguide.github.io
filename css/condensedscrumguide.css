@@ -51,10 +51,10 @@ ul, #myUL, #list {
   border-style:solid;
   border-color:#e0e0e0;
   background-color: #f9f9f9;
-  padding: 2px;
+  padding: 1px;
   padding-right: 6px;
   margin-top: 0px;
-  margin-bottom: 3px;
+  margin-bottom: 2px;
 }
 
 .active {
