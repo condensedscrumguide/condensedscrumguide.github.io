@@ -1,13 +1,13 @@
 let txt = `
 <img class="zoom centre" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA" style="background-image: url(' img/scrumframework.png'); width: 350px; height: 170px; background-position: center; background-size: cover; border:0;">
-"#Why condense the Scrum Guide?#" - a #brief explanation# of this page
+"#Why condense the Scrum Guide?#" - a #brief explanation#
 	
-	#This document# contains the #2020 Scrum Guide# as a #single slide#, with #full drill down# back to the #original text#.
-	It has been designed to fit on a #laptop screen#, or indeed, a #mobile phone#.
+	The #2020 Scrum Guide#, with #drill down# to the #original text#.
+	You can view it on a #laptop screen# or #mobile phone#.
 	
-	#Scrum# is a very popular #management approach# which has been #widely adopted#.
-	That said, there are occasionally times when #doing Scrum# can seem a bit like #making it up as you go along#.
-	That isn't a bad thing, but the fact remains that #Scrum# has a #precise definition#.
+	#Scrum# is a #popular approach#, and has been #widely used#.
+	As a result, Scrum gets done in many #different ways#.
+	The fact remains, that #Scrum# has a #precise definition#.
 	
 	This page seeks to make that definition (as outlined in the Scrum Guide) #instantly accessible# to #everyone#.
 	Here are the #theoretical principles#, #values#, #accountabilities#, #events#, and #artifacts#, taken directly from the Scrum Guide.
