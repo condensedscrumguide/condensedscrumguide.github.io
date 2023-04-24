@@ -16,7 +16,7 @@ let txt = `
 	
 	It is for #teams# to #self-manage#, through #discussions#~based on #common understanding# and #evidence#.
 	
-	This document seeks to help #teams# and #customers#~to #talk productively# about the #right ways to work#.
+	It is to help #teams# and #customers#~to #talk productively# about the #right ways to work#.
 	
 	We hope that #you# will enjoy reading it.
 	
