@@ -1,6 +1,6 @@
 let txt = `
 <img class="zoom centre" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA" style="background-image: url(' img/scrumframework.png'); width: 320px; height: 150px; background-position: center; background-size: cover; border:0;">
-"#Why condense the Scrum Guide?#" - a #brief explanation#
+"#Why condense the Scrum Guide?#" - a brief #explanation#
 	
 	The #2020 Scrum Guide# on one page for #laptop# or #mobile#,~with #full drill down# back to the #original text#.
 	
@@ -30,7 +30,7 @@ let txt = `
 	"• Grey boxes are #the full original text# from the 2023 Scrum Guide, which is the thing that you drill down #to#
 	
 
-"#Purpose of the Scrum Guide#" - the scrum guide's #sole purpose# is to #define# the #core scrum framework#
+"#Purpose of the Scrum Guide#" - the scrum guide's~#sole purpose# is to #define# the #core scrum framework#
 	
 	#Scrum# began in the 1990s, and the #Scrum Guide# has been #continuously evolving# since #2010#
 		"We developed Scrum in the early 1990s. We wrote the first version of the Scrum Guide in 2010 to help people worldwide understand Scrum. We have evolved the Guide since then through small, functional updates. Together, we stand behind it.
@@ -43,7 +43,7 @@ let txt = `
 	However, the #Scrum Guide# only contains the #core Scrum framework#, and no more
 		"Their description is beyond the purpose of the Scrum Guide because they are context sensitive and differ widely between Scrum uses. Such tactics for using within the Scrum framework vary widely and are described elsewhere.
 
-"#Scrum Definition#" - scrum is a #simple# and #incomplete# framework for working on #complex problems#
+"#Scrum Definition#" - a #simple# and #incomplete# framework~for working on #complex problems#
 	
 	"• Scrum is a #lightweight framework# that helps #people#, #teams# and #organizations# generate #value# through #adaptive solutions# for #complex problems#
 	• In a nutshell, Scrum requires a #Scrum Master# to foster an #environment# where
@@ -56,7 +56,7 @@ let txt = `
 	Scrum can contain #other project methodologies# and/or #existing practices#, to #make them visible#, #improve them# and/or #render them unnecessary#
 		"Various processes, techniques and methods can be employed within the framework. Scrum wraps around existing practices or renders them unnecessary. Scrum makes visible the relative efficacy of current management, environment, and work techniques, so that improvements can be made.
 	
-"#Scrum Theory#" - an #empirical# approach to #efficient# and #focused# work, using #transparency#, #observation# and #adaptation#
+"#Scrum Theory#" - #efficient# and #focused# work,~through #transparency#, #observation# and #adaptation#
 	
 	"Scrum is founded on #Empiricism# and #Lean Thinking#
 		"• #Empiricism# asserts that #knowledge# comes from #experience# and making #decisions# based on what is #observed# 
@@ -87,7 +87,7 @@ let txt = `
 		#Empowerment# and #self-management# help the Team to #rapidly adapt# as they #learn# by #inspection#
 			"Adaptation becomes more difficult when the people involved are not empowered or self-managing. A Scrum Team is expected to adapt the moment it learns anything new through inspection.
 	
-"#Scrum Values#" - scrum teams aspire to #commitment#, #focus#, #openness#, #respect#, and #courage#
+"#Scrum Values#" - scrum teams aspire to~#commitment#, #focus#, #openness#, #respect#, and #courage#
 	
 	"#Successful use of Scrum# depends on #people# becoming #proficient# in living five #Scrum Values#
 	• #Commitment# - Team #commits# to achieving its #goals# and to #supporting# each other
@@ -229,7 +229,7 @@ let txt = `
 		This takes a #maximum of four hours#, but can often be shorter
 			"The Sprint Retrospective concludes the Sprint. It is timeboxed to a maximum of #three hours# for a one-month Sprint. For shorter Sprints, the event is usually shorter.
 	
-"#Scrum Artifacts#" - the team's #measurable output# is a #product backlog#, a #sprint backlog#, and some #increments#
+"#Scrum Artifacts#" - the team's #measurable output# is~a #product backlog#, a #sprint backlog#, and some #increments#
 	
 	"Scrum’s artifacts represent #work or value#
 		"They are designed to maximize transparency of key information. Thus, everyone inspecting them has the same basis for adaptation.
