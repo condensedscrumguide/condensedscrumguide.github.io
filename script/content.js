@@ -6,11 +6,14 @@ let txt = `
 	You can view it on a #laptop screen# or #mobile phone#.
 	
 	#Scrum# is a #popular approach#, which is #widely used#.~It's an #incomplete framework#; to #use# it is to #customise# it.
+	
 	But the core of #Scrum# has a #precise definition#, with~#principles#, #values#, #accountabilities#, #events#, and #artifacts#.
-	We wanted to present and explain it clearly and easily.
+	We wanted to present and explain that #clearly# and #easily#.
 	
 	This is for #customers# to know what they are #buying#,~and for #teams# to know what they are #selling#.
-	This is for #teams# to #self-manage#, through #discussions#~based on #common knowledge# and #evidence#.
+	
+	It is for #teams# to #self-manage#, through #discussions#~based on #common understanding# and #evidence#.
+	
 	This document seeks to #help# teams and customers~to #talk productively# about the #right ways to work#.
 	
 	We hope that #you# will enjoy reading it.
