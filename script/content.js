@@ -8,13 +8,14 @@ let txt = `
 	But the core of #Scrum# has a #precise definition#, with~#principles#, #values#, #accountabilities#, #events#, and #artifacts#.
 	
 	This page #presents# and #explains# Scrum #clearly# and #easily#.
-	We hope that #when scrums are created# (or as necessary),~#everyone# can walk through the Scrum Guide #together#.
+	We hope that #when scrums are created# (or as necessary),~#everyone# can #walk through# the Scrum Guide #together#.
 	
 	This is for #customers to know# what they are #buying#,~and for #teams to know# what they are #selling#.
 	
-	It is for #teams# to #self-manage#, through #discussions#~based on #common understanding# and #evidence#.
+	It is to help #teams# to #self-manage#, through #discussions#~based on #common understanding# and #evidence#.
 	
-	It is to help #teams# and #customers# to #talk about#~the #right ways of working#.
+	Lastly, it is to help #teams# and #customers# to #talk about#~the #right ways of working#.
+	
 	We hope that #you# will enjoy reading it.
 	
 	© 2023 Greg Solomon
