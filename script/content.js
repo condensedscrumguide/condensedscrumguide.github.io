@@ -4,11 +4,11 @@ let txt = `
 	
 	The #2020 Scrum Guide# on one page for #laptop# or #mobile#,~with #full drill down# back to the #original text#.
 	
-	#Scrum# is a #popular approach#, which is #widely used#.~It's an #incomplete framework#; to #use# it is to #customise# it.
+	#Scrum# is a #popular approach#, which is #widely used#.~It is an #incomplete framework#; to #use# it is to #customise# it.
 	But the core of #Scrum# has a #precise definition#, with~#principles#, #values#, #accountabilities#, #events#, and #artifacts#.
 	
 	This page #presents# and #explains# Scrum #clearly# and #easily#.
-	We hope that #when scrums are created# (or as necessary),~#everyone# can #walk through# the Scrum Guide #together#.
+	We hope that #when scrums are created# (or #as necessary#),~everyone can #walk through# the Scrum Guide #together#.
 	
 	This is for #customers to know# what they are #buying#,~and for #teams to know# what they are #selling#.
 	
