@@ -9,8 +9,7 @@ let txt = `
 	
 	But the core of #Scrum# has a #precise definition#, with~#principles#, #values#, #accountabilities#, #events#, and #artifacts#.
 	We wanted to present and explain that #clearly# and #easily#.
-	
-	We hope that when scrums are created (or as necessary),~everyone can walk through the Scrum Guide together.
+	We hope that #when scrums are created# (or as necessary),~#everyone# can walk through the Scrum Guide #together#.
 	
 	This is for #customers# to know what they are #buying#,~and for #teams# to know what they are #selling#.
 	
