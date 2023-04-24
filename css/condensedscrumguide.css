@@ -3,6 +3,10 @@ h2 {
   text-align: center;
 }
 
+li{
+  margin: 2px 0;
+}
+
 ul {
   font-family:"Open Sans";
   font-size:12px;
