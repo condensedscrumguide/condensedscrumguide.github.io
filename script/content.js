@@ -5,14 +5,14 @@ let txt = `
 	Here is the #2020 Scrum Guide# as a single slide,~with #full drill down# to the #original text#.
 	You can view it on a #laptop screen# or #mobile phone#.
 	
-	#Scrum# is a #popular approach#, and is #widely adopted#.~It is an #incomplete framework# - to #use# it is to #customise# it.
+	#Scrum# is a #popular approach#, and is #widely adopted#.~It's an #incomplete framework#, to #use# it is to #customise# it.
 	But the core of #Scrum# has a #precise definition#, with~#principles#, #values#, #accountabilities#, #events#, and #artifacts#.
 	
-	This page seeks to make that definition (as outlined in~the Scrum Guide) #instantly accessible# to #everyone#.
+	This page makes that definition (as per the Scrum Guide)~#instantly accessible# to #everyone#.
 	
 	#Customers# make a #purchasing decisions#, and such~decisions can be aided by #greater transparency#.
-	#Self-managing teams# need #discussions#, and constructive discussion~is easier when you #agree# on the #meanings of words#.
-	This document seeks to #help# scrum teams and their customers~to #talk productively# about the #right ways to work#.
+	#Self-managing teams# need #discussions#, and discussion~is easier when you #agree# on the #meanings of words#.
+	This document seeks to #help# teams and customers~to #talk productively# about the #right ways to work#.
 	
 	We hope that #you# will enjoy reading it.
 	
