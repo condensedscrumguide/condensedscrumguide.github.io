@@ -21,10 +21,10 @@ let txt = `
 	
 "#How does this page work?#" - a short #how-to# manual
 	
-	Plain text contains #summarised information# from the 2023 Scrum Guide, which you can click to drill down #on#
+	Plain text is #summarised information# from the 2023 Scrum Guide, which you can click to drill down #on#
 		Yes, just like that
 	
-	"• Grey boxes contain #the full original text# from the 2023 Scrum Guide, which is the thing that you drill down #to#
+	"• Grey boxes are #the full original text# from the 2023 Scrum Guide, which is the thing that you drill down #to#
 	
 
 "#Purpose of the Scrum Guide#" - the scrum guide's #sole purpose# is to #define# the #core scrum framework#
