@@ -14,7 +14,7 @@ let txt = `
 	
 	It is to help #teams# to #self-manage#, through #discussions#~based on #common understanding# and #evidence#.
 	
-	Lastly, it is to help #teams# and #customers# to #talk about#~the #right ways of working#.
+	Lastly, it is to help #teams# and #customers# to #talk about#~the #right ways of working# towards a shared #product vision#.
 	
 	We hope that #you# will enjoy reading it.
 	
