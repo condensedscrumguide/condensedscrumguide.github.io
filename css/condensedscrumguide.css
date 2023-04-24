@@ -65,9 +65,22 @@ ul, #myUL, #list {
   transition: transform .2s; /* Animation */
 }
 
-.zoom:hover {
-  transform: scale(2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+@media screen and (max-width: 1000px) {
+  /* comes into effect for screens less than or equal to 320 pixels */
+  .zoom:hover {
+    transform: scale(2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+    transform: rotate(90deg);
+  }
 }
+
+@media screen and (min-width: 1001px) {
+  /* comes into effect for screens less than or equal to 320 pixels */
+  .zoom:hover {
+    transform: scale(2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+    transform: rotate(90deg);
+  }
+}
+
 .centre {
   display: block;
   margin-left: auto;
