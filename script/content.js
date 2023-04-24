@@ -56,7 +56,7 @@ let txt = `
 	Scrum can contain #other project methodologies# and/or #existing practices#, to #make them visible#, #improve them# and/or #render them unnecessary#
 		"Various processes, techniques and methods can be employed within the framework. Scrum wraps around existing practices or renders them unnecessary. Scrum makes visible the relative efficacy of current management, environment, and work techniques, so that improvements can be made.
 	
-"#Scrum Theory#" - encouraging #efficient# and #focused# teamwork,~through #transparency#, #observation# and #adaptation#
+"#Scrum Theory#" - #efficient# and #focused# teamwork,~through #transparency#, #observation# and #adaptation#
 	
 	"Scrum is founded on #Empiricism# and #Lean Thinking#
 		"• #Empiricism# asserts that #knowledge# comes from #experience# and making #decisions# based on what is #observed# 
