@@ -30,7 +30,7 @@ let txt = `
 	"• Grey boxes are #the full original text# from the 2023 Scrum Guide, which is the thing that you drill down #to#
 	
 
-"#Purpose of the Scrum Guide#" - simply, to #define#~the #core scrum framework#
+"#Purpose of the Scrum Guide#" - quite simply,~to #define# the #core scrum framework#
 	
 	#Scrum# began in the 1990s, and the #Scrum Guide# has been #continuously evolving# since #2010#
 		"We developed Scrum in the early 1990s. We wrote the first version of the Scrum Guide in 2010 to help people worldwide understand Scrum. We have evolved the Guide since then through small, functional updates. Together, we stand behind it.
