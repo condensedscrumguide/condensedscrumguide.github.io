@@ -67,7 +67,7 @@ ul, #myUL, #list {
 
 @media screen and (max-width: 500px) {
   .zoom:hover {
-    transform: matrix(2, 0, 0, 2, 175, 85);
+    transform: matrix(3, 0, 0, 3, 263, 127);
   }
 }
 
